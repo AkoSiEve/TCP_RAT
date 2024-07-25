@@ -1,8 +1,6 @@
 # simple tcp project rat
 
-https://github.com/user-attachments/assets/bea1c77b-dbd0-470a-9652-eecd49b56785
-
-https://github.com/user-attachments/assets/257f186f-e1b8-40bb-b632-9f6bf2010132
+https://github.com/user-attachments/assets/0cc65437-4b66-4ccc-9f9f-1a91ed33672
 
 ## Getting Started
 
