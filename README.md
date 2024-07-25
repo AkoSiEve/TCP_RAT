@@ -1,7 +1,6 @@
 # simple tcp project rat
 
-https://github.com/AkoSiEve/TCP_RAT/issues/1#issue-2430541728 
-
+https://github.com/user-attachments/assets/bea1c77b-dbd0-470a-9652-eecd49b56785
 
 ## Getting Started
 
