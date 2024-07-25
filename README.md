@@ -1,6 +1,6 @@
 # simple tcp project rat
 
-A new Flutter project.
+https://github.com/AkoSiEve/TCP_RAT/issues/1#issue-2430541728 https://github.com/AkoSiEve/TCP_RAT/issues/1#issue-2430541728
 
 ## Getting Started
 
